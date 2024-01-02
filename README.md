@@ -34,7 +34,8 @@ The conference dataset hosted in this repository tracks the following informatio
 | [JSConf](https://jsconf.com/) | Local Community | Varies | Yes | Partial | Yes | 
 | [NESCALA](https://github.com/nescalas/nescalas.github.io) | Volunteers | No | Partial | No | Never | 
 | [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
-
+| [Øredev](https://oredev.org/) | [Öredev AB](https://oredev.org) | No | No | No | Never | 
+| [CodeMash](https://www.codemash.org/) | [CodeMash Community](https://www.codemesh.com/about) | Yes | Yes | Partial | Yes |
 
 ## Contributing
 
